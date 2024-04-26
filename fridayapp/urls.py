@@ -5,6 +5,6 @@ from fridayapp.views import homepage
 
 
 urlpatterns = [
-    path('', homepage,name='home'),
+    path('', homepage),
     
 ]
